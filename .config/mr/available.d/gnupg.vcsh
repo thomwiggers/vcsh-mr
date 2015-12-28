@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/gnupg.git]
+checkout = vcsh clone git@github.com:thomwiggers/vcsh-gnupg.git
+update = vcsh gnupg pull
+push = vcsh gnupg push
+status = vcsh status gnupg
