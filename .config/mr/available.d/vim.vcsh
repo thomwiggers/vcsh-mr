@@ -2,4 +2,4 @@
 checkout = vcsh clone git@github.com:thomwiggers/vcsh-vim.git vim
 update = vcsh vim pull
 push = vcsh vim push
-status = vcsh status vim
+status = vcsh vim status

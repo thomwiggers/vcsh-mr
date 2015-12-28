@@ -1,5 +1,5 @@
 [$HOME/.config/vcsh/repo.d/zsh.git]
-checkout = vcsh clone git://github.com/RichiH/zshrc.git zsh
+checkout = vcsh clone git@github.com:thomwiggers/vcsh-zsh.git zsh
 update = vcsh zsh pull
 push = vcsh zsh push
-status = vcsh status zsh
+status = vcsh zsh status
