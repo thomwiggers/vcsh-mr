@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/powerline.git]
+checkout = vcsh clone git@github.com:thomwiggers/vcsh-powerline.git powerline
+update = vcsh powerline pull
+push = vcsh powerline push
+status = vcsh powerline status

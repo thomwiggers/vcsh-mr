@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/shell.git]
+checkout = vcsh clone git@github.com:thomwiggers/vcsh-shell.git shell
+update = vcsh shell pull
+push = vcsh shell push
+status = vcsh shell status
