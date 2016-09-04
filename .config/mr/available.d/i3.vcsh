@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/i3.git]
+checkout = vcsh clone git@github.com:thomwiggers/vcsh-i3.git shell
+update = vcsh i3 pull
+push = vcsh i3 push
+status = vcsh i3 status
